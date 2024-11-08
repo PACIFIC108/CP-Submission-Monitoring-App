@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CP-Submission-Monitoring-App/static/css/main.fab93e06.css",
+    "main.js": "/CP-Submission-Monitoring-App/static/js/main.1c0ee38f.js",
+    "index.html": "/CP-Submission-Monitoring-App/index.html",
+    "main.fab93e06.css.map": "/CP-Submission-Monitoring-App/static/css/main.fab93e06.css.map",
+    "main.1c0ee38f.js.map": "/CP-Submission-Monitoring-App/static/js/main.1c0ee38f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab93e06.css",
+    "static/js/main.1c0ee38f.js"
+  ]
+}
