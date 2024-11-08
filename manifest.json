@@ -1,17 +1,17 @@
 {
   "short_name": "my-react-app",
-  "name": "Submission Monitor Extension",
+  "name": "Submission Monitor",
   "icons": [
-    // {
-    //   "src": "CFlogo.png",
-    //   "sizes": "192x192",
-    //   "type": "image/png"
-    // },
-    // {
-    //   "src": "CFlogo.png",
-    //   "sizes": "512x512",
-    //   "type": "image/png"
-    // }
+   {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
